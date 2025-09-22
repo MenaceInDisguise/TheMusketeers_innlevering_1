@@ -149,6 +149,16 @@ Når det kommer til håndtering av konflikter kan dette gjøres på flere ulike 
 En god struktur for å kunne holde en god konflikthåndtering gjennom prosjektet, vil starte med god kommunikasjon. Det at Erling kan kommunisere med teamet, og at de igjen kan være ærlig med hverandre på hvilke utfordringer man kan møte på, kan da være av personlige årsaker eller lignende (Gjøsund & Huseby, 2015 s. 93). Det vil også være en fordel at hver enkelt vet sin rolle i prosjektet, der man har tydelige linjer på hvilke oppgaver man selv skal gjennomføre, så det ikke oppstår misforståelser og misnøye. Når man selv har tydelig forståelse av sine oppgaver, reduserer det risikoen for uenigheter og frustrasjon. Ettersom at prosjektet er et heterogent prosjekt, hvor det er sammensatt av ulike mennesker som jobber i forskjellige avdelinger, kan dette føre til forskjellige synspunkter hvor det kan oppstå misnøye og konflikter. Det kan være en fordel å jevnlig ha samtaler med teamet, både enkeltvis og gruppevis for å kunne håndtere konflikter og uenigheter i et tidlig stadium. 
 
 
+ Konflikthåndteringsstrategier kan deles i fem grunnleggende typer:
+
+-**Problemløsning eller integrasjon**, her vil man legge en strategi for å komme til bunns i årsaken til hvorfor konflikt oppstår, der man analyserer oppbygningen og der igjen prøver å finne en løsning for å oppklare konflikten (Jacobsen, 2016, s. 67).
+-**Ettergivenhet**, en strategi der en av de involverte parter gir seg. Altså da velger å ta avstand og hver part ikke lenger ser hensikten eller forsøker å komme gjennom med sine synspunkter (Jacobsen, 2016, s. 67).
+-**Dominans**, er en strategi der en part bruker sin makt til å tvinge på den andre sine egne synspunkter. Hvor man da selv tar styringen (Jacobsen, 2016, s. 67).
+ -**Kompromiss**, En strategi der partene begge parter kommer med innspill. Løsningen her vil begge parter være like fornøyd med og misfornøyd med  (Jacobsen, 2016, s. 67).
+-**Unngåelse**, er en strategi der man skyver konflikten bort, ikke lenger snakker om den og heller velger å unngå den. Her vil man da bare utsette forsøket på å løse opp i konflikten (Jacobsen, 2016, s. 67).
+Ved å ha tydelige strategier for konflikthåndtering vil det føre til et tryggere arbeidsmiljø, for å kunne forhindre stress og sykdom i perioden gjennom prosjektet. Som videre der igjen vil føre til et bedre og mer gjennomført prosjekt. 
+
+
 
 
 
