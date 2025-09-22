@@ -1,3 +1,61 @@
+# The Musketeers - Innlevering 1
+
+**Gruppe medlemmer**  
+- Aryan Sarvarsen | aryans@uia.no  
+- Emil Storebaug | eastorebau@uia.no  
+- Maya Noor Asad | mayana@uia.no  
+- Kanishka Naseri | kanishkan@uia.no  
+- Kristin Nyvoll Kristiansen | kristinnk@uia.no  
+- Amanda Oliversen | amandao@uia.no  
+- Leart Hasanaj | learth@uia.no  
+- Mathias Ghebreselassie | Mathiasyg@uia.no  
+
+**Emne Kode & Navn:**  
+IS-118-1 25H Programmering og prosjektsamarbeid  
+
+**Tittel:**  
+Innleveringsoppgave 1 - IS-118, høst 2025  
+
+**Dato:**  
+22/9/2025  
+
+---
+
+**Declarations:**  
+
+- We confirm hereby that we are not citing or using in other ways other’s work without stating that clearly, and all of the sources that we have used are listed in the references  
+  - Yes ✅  
+  - No ⬜  
+
+- We allow the use of this work for educational purposes  
+  - Yes ✅  
+  - No ⬜  
+
+- We hereby confirm that every member of the group named on this page has contributed to this deliverable/product  
+  - Yes ✅  
+  - No ⬜  
+
+---
+
+## Innholdsfortegnelse
+
+1. Strategi for rekruttering og sammensetning .............. 2  
+2. Balansering av mangfold og likhet ..................... 2  
+3. Fremme tillit gjennom sosial demografisk likhet ....... 2  
+4. Viktige momenter å ta inn i planleggingen tidlig ...... 3  
+5. Det første møtet ........................................ 4  
+6. Rammer for relasjonelle kontrakter .................... 5  
+7. Felles spilleregler og forventningsavklaring ........... 5  
+8. Kommunikasjon ........................................... 5  
+9. Relasjon mellom prosjekteier og prosjektleder ........ 6  
+10. Håndtering av uforutsette hendelser eller endringer . 6  
+11. Evaluering og teambuilding ........................... 6  
+12. Håndtering av konflikter .............................. 7  
+13. Håndtering av tidspress og “planingsfellen” .......... 8  
+14. Kommunikasjon .......................................... 9  
+15. Litteraturliste ........................................ 10
+
+
 # TheMusketeers\_innlevering\_1
 
 Strategi for rekruttering og sammensetning
@@ -39,6 +97,47 @@ En bevisst rekrutteringsstrategi tidlig i prosjektet handler derfor ikke bare om
 
 
 Et vellykket rekruttert team vil da kjennetegnes av at alle nødvendige fagområder er dekket, at medlemmene viser gjensidig respekt og tillit fra første møte, og at gruppen demonstrerer en balanse mellom kreativ tenkning og praktisk gjennomføring. I tillegg bør teamet ha tilstrekkelig kapasitet til å håndtere både planlagte oppgaver og uforutsette utfordringer. Når denne balansen mellom mangfold og likhet er oppnådd, har Erling lagt et solid fundament for at prosjektet kan nå sitt mål om å øke innbyggerengasjement og transparens i kommunale prosesser.
+
+*Det første møtet**
+
+“Det første møtet er et svært viktig punkt i teambygging” (Jacobsen, 2016, s. 37). Det er viktig å etablere en felles forståelse for hva gruppens oppgaver og ansvarsområder er.  Under den første sammenkomsten står ofte informasjonsformidling sentralt, men det er også et viktig tidspunkt i forbindelse med relasjonsbygging. Så kalt “Pseudo-arbeid” kan forstås som ikke vesentlig “småprat” for prosjektets del, likevel er det hensiktsmessig. Medlemmene i teamet kan på denne måten bli bedre kjent med hverandre, eksempelvis ved å dele tidligere arbeidserfaringer.
+
+Ifølge Jacobsen (2016, s. 37) danner medlemmene i teamet seg et bilde av hverandre under det første møtet, grunnet pseudo-arbeid. På bakgrunn av dette bør man utforme “oppstartsmøter” i oppstartsfasen av prosjektet, ettersom det bidrar til at førsteinntrykket justeres. En mulig konsekvens ved manglende oppstartsmøter er at et negativt førsteinntrykk fra første møte blir stående.
+
+“Gode oppstartsmøter inneholder planlegging både av oppgaver (en handlingsplan - “task work”), og hvordan man skal samhandle for å få dette til (samhandlingsplan - “team work”), i tillegg til en drøfting av målsettinger” (Jacobsen, 2016, s. 37-38).  Jacobsen (2016, s. 38) utdyper med at også disse møtene bør romme småprat og pseudo-arbeid, ettersom det vil øke sannsynligheten for en felles forståelse for prosjektmål, samt tid- og ressursramme blant medlemmene i prosjektet. Innenfor teambygging kan det være gunstig at flere enn prosjektleder og prosjekteier deltar i planleggingsprosessen, ettersom deltakelse har flere positive effekter i forbindelse med kvaliteten på planleggingen og for dem som deltar viser forskning (Jacobsen, 2016, s. 39). 
+
+**Rammer for relasjonelle kontrakter**
+
+Tradisjonelt legger prosjektkontrakter mest vekt på den såkalte partnerskapskontrakten. Det er bidragene til de enkelte prosjektdeltagerne som står i fokus. En annen måte å omtale slike kontrakter er “jerntriangelet”: tid, kostnad og kvalitet. Dette betyr at kontrakten i all hovedsak skal definere hva som skal leveres til hvilken tid, hvor mye dette skal koste og kriterier for hvilken kvalitet det skal være på produktet som prosjektet skal ende opp med. (Jacobsen, 2016, s. 43).
+
+For et prosjekt som Erlings sitt, hvor det er en tverrfaglig og mangfoldig prosjektgruppe, er det viktig å etablere kontrakter for å etablere felles rammer / spilleregler for prosjektarbeidet. Dette innebærer rammer for samarbeid, kommunikasjon, og relasjoner på tvers av prosjektgruppen. Dette er det vi kaller relasjonelle kontrakter.
+
+**Felles spilleregler og forventningsavklaring**
+
+Gjøre det tydelig hvordan beslutninger tas (Flertall, prosjektlederavgjørelser).
+Definere klare og tydelige roller og ansvar.
+
+**Kommunikasjon**
+
+Tydelig avklare hvilke apper / plattformer som skal brukes i prosjektarbeidet for samarbeid og kommunikasjon (E-post, Teams, eller andre lignende plattformer). Sørge for at relevant informasjon deles med alle i prosjektet slik at noen ikke sitter på mer kunnskap enn andre. Bestemme hvor ofte det skal holdes møter og rapporter.
+
+**Relasjon mellom prosjekteier og prosjektleder**
+
+Avklare hvordan bystyret skal følge opp Erling i prosjektet (Statusmøter, Rapportering,hvordan de gir støtte). Tydelig avtale hvor mye handlingsrom Erling har, hvilke ressurser han kan fritt disponere. Hvilke bestemmelser han kan ta selv, og når han eventuelt må innblande bystyret. Skrive om forventninger til hverandre slik at det er tydelig fra oppstart av prosjektet hva både prosjektleder og prosjekteier kan forvente av hverandre.
+
+**Håndtering av uforutsette hendelser eller endringer**
+Ha en felles avklaring på hvordan man skal justere ved endringer, for eksempel budsjettkutt eller andre hindringer. Enighet om å være fleksible, felles forståelse for at ting kan gå galt og da må endringer til for å komme i mål. Avklare hvordan man skal bestemme endringer.
+
+**Evaluering og teambuilding**
+
+Ha teambyggingsaktiviteter underveis i prosjektet for å danne vennskap og forbedre samarbeidet. Et bra eksempel på en god teambyggingsaktivitet som krever problemløsning og samarbeid er escape room. 
+Det bør også settes opp en slags plan for milepæler underveis i prosjektet. Denne kan se sånn her ut:
+Oppstart
+Tidlig evaluering
+Midtveis checkpoint
+Før lansering
+Etter lansering 
+Dette er nyttig fordi det hjelper med å redusere risikoen for konflikter, samtidig som det bygger tillit. Det gir også rom for å justere og ta tak i problemer tidlig, sånn at de ikke blir for store.
 
 
 
