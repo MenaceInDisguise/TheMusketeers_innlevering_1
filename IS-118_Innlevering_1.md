@@ -179,5 +179,6 @@ For å gjøre kommunikasjon mer effektiv, bygger vi på positiv kommunikasjon vi
 
 ## Litteraturliste
 Jacobsen, D. I. (2016). Engangsorganisasjonen. Fagbokforlaget. 
+
 Gjøsund, P. & Huseby, R. (2015). To eller flere: Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen Damm.
 
