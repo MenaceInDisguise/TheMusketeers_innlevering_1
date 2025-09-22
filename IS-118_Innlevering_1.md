@@ -143,6 +143,20 @@ Det bør også settes opp en slags plan for milepæler underveis i prosjektet. D
 
 Dette er nyttig fordi det hjelper med å redusere risikoen for konflikter, samtidig som det bygger tillit. Det gir også rom for å justere og ta tak i problemer tidlig, sånn at de ikke blir for store.
 
+# Håndtering av konflikter
+
+Når det kommer til håndtering av konflikter, kan dette gjøres på flere ulike måter. Ved å på forhånd kunne identifisere, drøfte og avgjøre hvilke uenigheter som kan oppstå, vil man være bedre rustet til å takle situasjonene når de faktisk oppstår.  
+
+Dette kan også ha en forebyggende effekt ved å være klar over de ulike risikoene for konflikt. En måte å gjøre dette på er gjennom risikovurdering, som gir forståelse for potensielle konflikter som kan oppstå (Jacobsen, 2016, s. 67). For å tidlig i prosjektfasen kunne identifisere mulige konfliktårsaker, bør man ha en åpen dialog fra start, slik at alle i teamet har mulighet til å dele sine tanker.
+
+## Struktur for konflikthåndtering
+
+En god struktur for å håndtere konflikter gjennom prosjektet starter med god kommunikasjon. Dersom prosjektleder Erling kan kommunisere tydelig med teamet, og teammedlemmene kan være ærlige om hvilke utfordringer de møter, reduseres risikoen for misforståelser og frustrasjon (Gjøsund & Huseby, 2015, s. 93).  
+
+Det er også en fordel at hver enkelt vet sin rolle i prosjektet, med tydelige linjer for hvilke oppgaver man skal gjennomføre. Når man selv har en klar forståelse av sine oppgaver, reduseres risikoen for uenigheter.  
+
+Ettersom prosjektet er heterogent og består av mennesker fra ulike avdelinger, kan ulike synspunkter føre til misnøye og konflikter. Derfor kan det være nyttig å ha jevnlige samtaler med teamet, både individuelt og gruppevis, for å kunne håndtere konflikter og uenigheter i et tidlig stadium.
+
 
  
 
