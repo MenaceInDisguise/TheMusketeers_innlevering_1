@@ -100,8 +100,7 @@ Et vellykket rekruttert team vil da kjennetegnes av at alle nødvendige fagområ
 
 
 ## Det første møtet
-=======
-**Det første møtet**
+
 
 “Det første møtet er et svært viktig punkt i teambygging” (Jacobsen, 2016, s. 37). Det er viktig å etablere en felles forståelse for hva gruppens oppgaver og ansvarsområder er.  Under den første sammenkomsten står ofte informasjonsformidling sentralt, men det er også et viktig tidspunkt i forbindelse med relasjonsbygging. Så kalt “Pseudo-arbeid” kan forstås som ikke vesentlig “småprat” for prosjektets del, likevel er det hensiktsmessig. Medlemmene i teamet kan på denne måten bli bedre kjent med hverandre, eksempelvis ved å dele tidligere arbeidserfaringer.
 
@@ -143,7 +142,6 @@ Før lansering
 Etter lansering 
 Dette er nyttig fordi det hjelper med å redusere risikoen for konflikter, samtidig som det bygger tillit. Det gir også rom for å justere og ta tak i problemer tidlig, sånn at de ikke blir for store.
 
-=======
 
 “Gode oppstartsmøter inneholder planlegging både av oppgaver (en handlingsplan - “task work”), og hvordan man skal samhandle for å få dette til (samhandlingsplan - “team work”), i tillegg til en drøfting av målsettinger” (Jacobsen, 2016, s. 37-38).  Jacobsen (2016, s. 38) utdyper med at også disse møtene bør romme småprat og pseudo-arbeid, ettersom det vil øke sannsynligheten for en felles forståelse for prosjektmål, samt tid- og ressursramme blant medlemmene i prosjektet. Innenfor teambygging kan det være gunstig at flere enn prosjektleder og prosjekteier deltar i planleggingsprosessen, ettersom deltakelse har flere positive effekter i forbindelse med kvaliteten på planleggingen og for dem som deltar viser forskning (Jacobsen, 2016, s. 39). 
 
