@@ -144,11 +144,13 @@ Det bør også settes opp en slags plan for milepæler underveis i prosjektet. D
 
 Dette er nyttig fordi det hjelper med å redusere risikoen for konflikter, samtidig som det bygger tillit. Det gir også rom for å justere og ta tak i problemer tidlig, sånn at de ikke blir for store.
 
-# Håndtering av konflikter
+## Håndtering av konflikter 
+Når det kommer til håndtering av konflikter kan dette gjøres på flere ulike måter. Ved å på forhånd kunne identifisere, drøfte og avgjøre hvilke uenigheter som kan oppstå, vil man være bedre rustet til å takle de ulike situasjonene når de i senere tid vil oppstå. Her kan man også skape en forebyggende effekt ved å være klar over de ulike risikoene for konflikt. Her kan man da gjennomføre en risikovurdering, for å få forståelse for potensielle konflikter som kan oppstå (Jacobsen, 2016, s. 67). For å tidlig i prosjektfasen kunne identifisere mulige konfliktårsaker burde man ha en åpen dialog fra start, der det vil være mulighet til å kunne dele sine tanker med de andre i teamet. 
+ 
+En god struktur for å kunne holde en god konflikthåndtering gjennom prosjektet, vil starte med god kommunikasjon. Det at Erling kan kommunisere med teamet, og at de igjen kan være ærlig med hverandre på hvilke utfordringer man kan møte på, kan da være av personlige årsaker eller lignende (Gjøsund & Huseby, 2015 s. 93). Det vil også være en fordel at hver enkelt vet sin rolle i prosjektet, der man har tydelige linjer på hvilke oppgaver man selv skal gjennomføre, så det ikke oppstår misforståelser og misnøye. Når man selv har tydelig forståelse av sine oppgaver, reduserer det risikoen for uenigheter og frustrasjon. Ettersom at prosjektet er et heterogent prosjekt, hvor det er sammensatt av ulike mennesker som jobber i forskjellige avdelinger, kan dette føre til forskjellige synspunkter hvor det kan oppstå misnøye og konflikter. Det kan være en fordel å jevnlig ha samtaler med teamet, både enkeltvis og gruppevis for å kunne håndtere konflikter og uenigheter i et tidlig stadium. 
 
-Når det kommer til håndtering av konflikter, kan dette gjøres på flere ulike måter. Ved å på forhånd kunne identifisere, drøfte og avgjøre hvilke uenigheter som kan oppstå, vil man være bedre rustet til å takle situasjonene når de faktisk oppstår.  
 
-Dette kan også ha en forebyggende effekt ved å være klar over de ulike risikoene for konflikt. En måte å gjøre dette på er gjennom risikovurdering, som gir forståelse for potensielle konflikter som kan oppstå (Jacobsen, 2016, s. 67). For å tidlig i prosjektfasen kunne identifisere mulige konfliktårsaker, bør man ha en åpen dialog fra start, slik at alle i teamet har mulighet til å dele sine tanker.
+
 
 
 
