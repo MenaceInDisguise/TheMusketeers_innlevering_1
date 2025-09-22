@@ -150,6 +150,25 @@ Når det kommer til håndtering av konflikter kan dette gjøres på flere ulike 
 En god struktur for å kunne holde en god konflikthåndtering gjennom prosjektet, vil starte med god kommunikasjon. Det at Erling kan kommunisere med teamet, og at de igjen kan være ærlig med hverandre på hvilke utfordringer man kan møte på, kan da være av personlige årsaker eller lignende (Gjøsund & Huseby, 2015 s. 93). Det vil også være en fordel at hver enkelt vet sin rolle i prosjektet, der man har tydelige linjer på hvilke oppgaver man selv skal gjennomføre, så det ikke oppstår misforståelser og misnøye. Når man selv har tydelig forståelse av sine oppgaver, reduserer det risikoen for uenigheter og frustrasjon. Ettersom at prosjektet er et heterogent prosjekt, hvor det er sammensatt av ulike mennesker som jobber i forskjellige avdelinger, kan dette føre til forskjellige synspunkter hvor det kan oppstå misnøye og konflikter. Det kan være en fordel å jevnlig ha samtaler med teamet, både enkeltvis og gruppevis for å kunne håndtere konflikter og uenigheter i et tidlig stadium. 
 
 
+ Konflikthåndteringsstrategier kan deles i fem grunnleggende typer:
+
+-**Problemløsning eller integrasjon**, her vil man legge en strategi for å komme til bunns i årsaken til hvorfor konflikt oppstår, der man analyserer oppbygningen og der igjen prøver å finne en løsning for å oppklare konflikten (Jacobsen, 2016, s. 67).
+
+-**Ettergivenhet**, en strategi der en av de involverte parter gir seg. Altså da velger å ta avstand og hver part ikke lenger ser hensikten eller forsøker å komme gjennom med sine synspunkter (Jacobsen, 2016, s. 67).
+
+-**Dominans**, er en strategi der en part bruker sin makt til å tvinge på den andre sine egne synspunkter. Hvor man da selv tar styringen (Jacobsen, 2016, s. 67).
+
+ -**Kompromiss**, En strategi der partene begge parter kommer med innspill. Løsningen her vil begge parter være like fornøyd med og misfornøyd med  (Jacobsen, 2016, s. 67).
+ 
+-**Unngåelse**, er en strategi der man skyver konflikten bort, ikke lenger snakker om den og heller velger å unngå den. Her vil man da bare utsette forsøket på å løse opp i konflikten.
+Ved å ha tydelige strategier for konflikthåndtering vil det føre til et tryggere arbeidsmiljø, for å kunne forhindre stress og sykdom i perioden gjennom prosjektet. Som videre der igjen vil føre til et bedre og mer gjennomført prosjekt (Jacobsen, 2016, s. 67). 
+
+## Håndtering av tidspress og “planleggingsfellen
+
+Det er viktig å etablere gode planer og strukturer, samt gode relasjoner mellom prosjektdeltakerne og prosjektledere og eksterne aktører for hvor godt prosjektet utvikler seg i senere faser (Jacobsen, 2016, s. 46). Ifølge Jacobsen (2016, s. 46) viser en rekke studier at det ofte brukes lite tid på essensielle deler som planlegging, teamutvikling og relasjonsbygging tidlig i prosjektfasen. Forklaringen på dette kan være tidspress, som er en integrert del av de aller fleste prosjekter. I oppstartsfasen av Erlings prosjekt kan vi allerede se antydninger til at det kan oppstå handlingspress ettersom han må forholde seg til en tidsramme på 15 måneder. 
+
+Prosjektledere kan havne i planleggingsfellen grunnet et ønske om å “bare komme i gang” med prosjektet så raskt som mulig (Jacobsen, 2016, s. 46). Dette kan føre til at man iverksetter detaljerte planer før man har full innsikt i prosjektet. For å unngå dette bør Erling tenke strategisk og ta i bruk ulike strategier. For eksempel kan det sees på som hensiktsmessig å fokusere på en strategisk retning, noe som innebærer å etablere prosjektets mål, hva man ønsker å oppnå (suksesskriterier) og hvilken tilnærming man ønsker å ha til oppgaven. Videre kan Erling dele prosjektet inn i faser, og kun planlegge en fase av gangen. Dette bidrar til å gi prosjektet samt deltagerne fleksibilitet til å justere arbeidet basert på informasjon og endringer underveis i arbeidet. For gruppedeltagerne kan det være hensiktsmessig å være involvert i planleggingen av prosjektet, det skal være som for å si det man mener og dele perspektiver. Dette bidrar til å avdekke risikoer og muligheter tidlig i prosjektfasen. I tillegg til dette er det viktig å sette av tid til replanlegging og refleksjon, dette gir deltagerne en følelse av tilhørighet, da planen ikke er statisk, men noe gruppen må utvikle sammen.
+
 
 
 
