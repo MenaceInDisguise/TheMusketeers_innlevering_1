@@ -58,7 +58,7 @@ Innleveringsoppgave 1 - IS-118, høst 2025
 
 # TheMusketeers\_innlevering\_1
 
-Strategi for rekruttering og sammensetning
+## Strategi for rekruttering og sammensetning
 
 Denne oppstartspakken gir anbefalinger for hvordan Erling kan bemanne prosjektgruppen ved å balansere faglig mangfold med sosial og demografisk likhet. 
 
@@ -66,13 +66,13 @@ Riktig teamsammensetning fra start er avgjørende for å lykkes med utviklingen 
 
 
 
-Balansering av mangfold og likhet
+**Balansering av mangfold og likhet**
 
 En av de viktigste faktorene for prosjektets suksess er å sikre at teamet dekker ulike funksjoner (Jacobsen, 2016, s. 33). Produksjonsrollen ivaretas av IT-representantene og UX/UI-designeren, som sammen står for den praktiske utviklingen av portalen. Administrasjonsrollen fylles av kommunale representanter som har ansvar for å sikre at prosjektet følger gjeldende regler og framdriftsplan. Integrasjonsrollen går til den politiske rådgiveren og brukerrepresentantene, som bidrar til å skape sammenheng mellom politiske prioriteringer, faglige vurderinger og innbyggernes behov. Til slutt vil entreprenørskapsrollen, representert av sikkerhetseksperten og designeren, ha som oppgave å drive innovasjon og utfordre etablerte løsninger (Jacobsen, 2016, s. 33). På denne måten oppnår prosjektet en balanse mellom gjennomføringsevne, styring og samhandling.
 
 
 
-Fremme tillit gjennom sosial demografisk likhet
+**Fremme tillit gjennom sosial demografisk likhet**
 
 Samtidig som faglig mangfold er nødvendig, er en viss grad av sosial og demografisk likhet viktig for å etablere tillit og sikre effektiv kommunikasjon (Jacobsen, 2016, s. 35). Felles bakgrunn kan oppstå gjennom geografisk tilknytning til kommunen, liknende utdanningsnivå, balansert alderssammensetning og delt forståelse for kommunal kultur og arbeidsmåter. Slike likhetstrekk gjør det enklere å skape trygghet i gruppen, noe som igjen fremmer åpenhet, samarbeid og raskere progresjon i oppstartsfasen.
 
@@ -82,7 +82,7 @@ Samtidig som faglig mangfold er nødvendig, er en viss grad av sosial og demogra
 
 
 
-Viktige momenter å ta inn i planleggingen tidlig
+**Viktige momenter å ta inn i planleggingen tidlig**
 
 Ved å planlegge sammensetningen nøye fra starten kan prosjektleder redusere risikoen for slike utfordringer. En balansert gruppe med komplementær kompetanse gjør det mulig å fordele oppgaver på en rettferdig og effektiv måte, samtidig som den felles bakgrunnen bidrar til å etablere en opplevelse av samhold. Dette er spesielt viktig i prosjekter som er tidsavgrensede og ressurskrevende, slik som utviklingen av medborgerportalen, fordi det ikke er rom for å bruke de første månedene på å «finne hverandre» eller avklare grunnleggende tillitsspørsmål.
 
@@ -98,11 +98,52 @@ En bevisst rekrutteringsstrategi tidlig i prosjektet handler derfor ikke bare om
 
 Et vellykket rekruttert team vil da kjennetegnes av at alle nødvendige fagområder er dekket, at medlemmene viser gjensidig respekt og tillit fra første møte, og at gruppen demonstrerer en balanse mellom kreativ tenkning og praktisk gjennomføring. I tillegg bør teamet ha tilstrekkelig kapasitet til å håndtere både planlagte oppgaver og uforutsette utfordringer. Når denne balansen mellom mangfold og likhet er oppnådd, har Erling lagt et solid fundament for at prosjektet kan nå sitt mål om å øke innbyggerengasjement og transparens i kommunale prosesser.
 
+
+## Det første møtet
+=======
 **Det første møtet**
 
 “Det første møtet er et svært viktig punkt i teambygging” (Jacobsen, 2016, s. 37). Det er viktig å etablere en felles forståelse for hva gruppens oppgaver og ansvarsområder er.  Under den første sammenkomsten står ofte informasjonsformidling sentralt, men det er også et viktig tidspunkt i forbindelse med relasjonsbygging. Så kalt “Pseudo-arbeid” kan forstås som ikke vesentlig “småprat” for prosjektets del, likevel er det hensiktsmessig. Medlemmene i teamet kan på denne måten bli bedre kjent med hverandre, eksempelvis ved å dele tidligere arbeidserfaringer.
 
 Ifølge Jacobsen (2016, s. 37) danner medlemmene i teamet seg et bilde av hverandre under det første møtet, grunnet pseudo-arbeid. På bakgrunn av dette bør man utforme “oppstartsmøter” i oppstartsfasen av prosjektet, ettersom det bidrar til at førsteinntrykket justeres. En mulig konsekvens ved manglende oppstartsmøter er at et negativt førsteinntrykk fra første møte blir stående.
+
+
+“Gode oppstartsmøter inneholder planlegging både av oppgaver (en handlingsplan - “task work”), og hvordan man skal samhandle for å få dette til (samhandlingsplan - “team work”), i tillegg til en drøfting av målsettinger” (Jacobsen, 2016, s. 37-38).  Jacobsen (2016, s. 38) utdyper med at også disse møtene bør romme småprat og pseudo-arbeid, ettersom det vil øke sannsynligheten for en felles forståelse for prosjektmål, samt tid- og ressursramme blant medlemmene i prosjektet. Innenfor teambygging kan det være gunstig at flere enn prosjektleder og prosjekteier deltar i planleggingsprosessen, ettersom deltakelse har flere positive effekter i forbindelse med kvaliteten på planleggingen og for dem som deltar viser forskning (Jacobsen, 2016, s. 39). 
+
+## Rammer for relasjonelle kontrakter
+
+Tradisjonelt legger prosjektkontrakter mest vekt på den såkalte partnerskapskontrakten. Det er bidragene til de enkelte prosjektdeltagerne som står i fokus. En annen måte å omtale slike kontrakter er “jerntriangelet”: tid, kostnad og kvalitet. Dette betyr at kontrakten i all hovedsak skal definere hva som skal leveres til hvilken tid, hvor mye dette skal koste og kriterier for hvilken kvalitet det skal være på produktet som prosjektet skal ende opp med. (Jacobsen, 2016, s. 43).
+
+For et prosjekt som Erlings sitt, hvor det er en tverrfaglig og mangfoldig prosjektgruppe, er det viktig å etablere kontrakter for å etablere felles rammer / spilleregler for prosjektarbeidet. Dette innebærer rammer for samarbeid, kommunikasjon, og relasjoner på tvers av prosjektgruppen. Dette er det vi kaller relasjonelle kontrakter.
+
+**Felles spilleregler og forventningsavklaring**
+
+Gjøre det tydelig hvordan beslutninger tas (Flertall, prosjektlederavgjørelser).
+Definere klare og tydelige roller og ansvar.
+
+**Kommunikasjon**
+
+Tydelig avklare hvilke apper / plattformer som skal brukes i prosjektarbeidet for samarbeid og kommunikasjon (E-post, Teams, eller andre lignende plattformer). Sørge for at relevant informasjon deles med alle i prosjektet slik at noen ikke sitter på mer kunnskap enn andre. Bestemme hvor ofte det skal holdes møter og rapporter.
+
+**Relasjon mellom prosjekteier og prosjektleder**
+
+Avklare hvordan bystyret skal følge opp Erling i prosjektet (Statusmøter, Rapportering,hvordan de gir støtte). Tydelig avtale hvor mye handlingsrom Erling har, hvilke ressurser han kan fritt disponere. Hvilke bestemmelser han kan ta selv, og når han eventuelt må innblande bystyret. Skrive om forventninger til hverandre slik at det er tydelig fra oppstart av prosjektet hva både prosjektleder og prosjekteier kan forvente av hverandre.
+
+**Håndtering av uforutsette hendelser eller endringer**
+Ha en felles avklaring på hvordan man skal justere ved endringer, for eksempel budsjettkutt eller andre hindringer. Enighet om å være fleksible, felles forståelse for at ting kan gå galt og da må endringer til for å komme i mål. Avklare hvordan man skal bestemme endringer.
+
+**Evaluering og teambuilding**
+
+Ha teambyggingsaktiviteter underveis i prosjektet for å danne vennskap og forbedre samarbeidet. Et bra eksempel på en god teambyggingsaktivitet som krever problemløsning og samarbeid er escape room. 
+Det bør også settes opp en slags plan for milepæler underveis i prosjektet. Denne kan se sånn her ut:
+Oppstart
+Tidlig evaluering
+Midtveis checkpoint
+Før lansering
+Etter lansering 
+Dette er nyttig fordi det hjelper med å redusere risikoen for konflikter, samtidig som det bygger tillit. Det gir også rom for å justere og ta tak i problemer tidlig, sånn at de ikke blir for store.
+
+=======
 
 “Gode oppstartsmøter inneholder planlegging både av oppgaver (en handlingsplan - “task work”), og hvordan man skal samhandle for å få dette til (samhandlingsplan - “team work”), i tillegg til en drøfting av målsettinger” (Jacobsen, 2016, s. 37-38).  Jacobsen (2016, s. 38) utdyper med at også disse møtene bør romme småprat og pseudo-arbeid, ettersom det vil øke sannsynligheten for en felles forståelse for prosjektmål, samt tid- og ressursramme blant medlemmene i prosjektet. Innenfor teambygging kan det være gunstig at flere enn prosjektleder og prosjekteier deltar i planleggingsprosessen, ettersom deltakelse har flere positive effekter i forbindelse med kvaliteten på planleggingen og for dem som deltar viser forskning (Jacobsen, 2016, s. 39). 
 
