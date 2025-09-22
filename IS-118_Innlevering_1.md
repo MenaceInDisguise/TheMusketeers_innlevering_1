@@ -98,11 +98,15 @@ En bevisst rekrutteringsstrategi tidlig i prosjektet handler derfor ikke bare om
 
 Et vellykket rekruttert team vil da kjennetegnes av at alle nødvendige fagområder er dekket, at medlemmene viser gjensidig respekt og tillit fra første møte, og at gruppen demonstrerer en balanse mellom kreativ tenkning og praktisk gjennomføring. I tillegg bør teamet ha tilstrekkelig kapasitet til å håndtere både planlagte oppgaver og uforutsette utfordringer. Når denne balansen mellom mangfold og likhet er oppnådd, har Erling lagt et solid fundament for at prosjektet kan nå sitt mål om å øke innbyggerengasjement og transparens i kommunale prosesser.
 
+
 ## Det første møtet
+=======
+**Det første møtet**
 
 “Det første møtet er et svært viktig punkt i teambygging” (Jacobsen, 2016, s. 37). Det er viktig å etablere en felles forståelse for hva gruppens oppgaver og ansvarsområder er.  Under den første sammenkomsten står ofte informasjonsformidling sentralt, men det er også et viktig tidspunkt i forbindelse med relasjonsbygging. Så kalt “Pseudo-arbeid” kan forstås som ikke vesentlig “småprat” for prosjektets del, likevel er det hensiktsmessig. Medlemmene i teamet kan på denne måten bli bedre kjent med hverandre, eksempelvis ved å dele tidligere arbeidserfaringer.
 
 Ifølge Jacobsen (2016, s. 37) danner medlemmene i teamet seg et bilde av hverandre under det første møtet, grunnet pseudo-arbeid. På bakgrunn av dette bør man utforme “oppstartsmøter” i oppstartsfasen av prosjektet, ettersom det bidrar til at førsteinntrykket justeres. En mulig konsekvens ved manglende oppstartsmøter er at et negativt førsteinntrykk fra første møte blir stående.
+
 
 “Gode oppstartsmøter inneholder planlegging både av oppgaver (en handlingsplan - “task work”), og hvordan man skal samhandle for å få dette til (samhandlingsplan - “team work”), i tillegg til en drøfting av målsettinger” (Jacobsen, 2016, s. 37-38).  Jacobsen (2016, s. 38) utdyper med at også disse møtene bør romme småprat og pseudo-arbeid, ettersom det vil øke sannsynligheten for en felles forståelse for prosjektmål, samt tid- og ressursramme blant medlemmene i prosjektet. Innenfor teambygging kan det være gunstig at flere enn prosjektleder og prosjekteier deltar i planleggingsprosessen, ettersom deltakelse har flere positive effekter i forbindelse med kvaliteten på planleggingen og for dem som deltar viser forskning (Jacobsen, 2016, s. 39). 
 
@@ -139,5 +143,7 @@ Før lansering
 Etter lansering 
 Dette er nyttig fordi det hjelper med å redusere risikoen for konflikter, samtidig som det bygger tillit. Det gir også rom for å justere og ta tak i problemer tidlig, sånn at de ikke blir for store.
 
+=======
 
+“Gode oppstartsmøter inneholder planlegging både av oppgaver (en handlingsplan - “task work”), og hvordan man skal samhandle for å få dette til (samhandlingsplan - “team work”), i tillegg til en drøfting av målsettinger” (Jacobsen, 2016, s. 37-38).  Jacobsen (2016, s. 38) utdyper med at også disse møtene bør romme småprat og pseudo-arbeid, ettersom det vil øke sannsynligheten for en felles forståelse for prosjektmål, samt tid- og ressursramme blant medlemmene i prosjektet. Innenfor teambygging kan det være gunstig at flere enn prosjektleder og prosjekteier deltar i planleggingsprosessen, ettersom deltakelse har flere positive effekter i forbindelse med kvaliteten på planleggingen og for dem som deltar viser forskning (Jacobsen, 2016, s. 39). 
 
