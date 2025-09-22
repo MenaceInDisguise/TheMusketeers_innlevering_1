@@ -109,7 +109,7 @@ Ifølge Jacobsen (2016, s. 37) danner medlemmene i teamet seg et bilde av hveran
 
 “Gode oppstartsmøter inneholder planlegging både av oppgaver (en handlingsplan - “task work”), og hvordan man skal samhandle for å få dette til (samhandlingsplan - “team work”), i tillegg til en drøfting av målsettinger” (Jacobsen, 2016, s. 37-38).  Jacobsen (2016, s. 38) utdyper med at også disse møtene bør romme småprat og pseudo-arbeid, ettersom det vil øke sannsynligheten for en felles forståelse for prosjektmål, samt tid- og ressursramme blant medlemmene i prosjektet. Innenfor teambygging kan det være gunstig at flere enn prosjektleder og prosjekteier deltar i planleggingsprosessen, ettersom deltakelse har flere positive effekter i forbindelse med kvaliteten på planleggingen og for dem som deltar viser forskning (Jacobsen, 2016, s. 39). 
 
-<<<<<<< HEAD
+
 ## Rammer for relasjonelle kontrakter
 
 Tradisjonelt legger prosjektkontrakter mest vekt på den såkalte partnerskapskontrakten. Det er bidragene til de enkelte prosjektdeltagerne som står i fokus. En annen måte å omtale slike kontrakter er “jerntriangelet”: tid, kostnad og kvalitet. Dette betyr at kontrakten i all hovedsak skal definere hva som skal leveres til hvilken tid, hvor mye dette skal koste og kriterier for hvilken kvalitet det skal være på produktet som prosjektet skal ende opp med. (Jacobsen, 2016, s. 43).
